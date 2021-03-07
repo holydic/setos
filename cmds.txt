@@ -1,0 +1,28 @@
+搜名称   
+
+x i s
+Ctrl+Shift+ESC快捷键即可打开任务管理器
+
+
+搜索：
+bitlock
+recove
+
+打印机共享\\
+打印管理→服务器某实例→菜单操作→导出到文件→从文件导入
+http://www.freedriverbackup.com/
+Driver Magician Lite 这款软件
+
+1236接法 100M；交叉、平行
+568A标准：白绿，绿，白橙，蓝，白蓝，橙，白棕，棕
+568B标准：白橙，橙，白绿，蓝，白蓝，绿，白棕，棕
+
+80.44.80.18税务内网驱动
+
+
+老的资料待读：
+takeown /f xxx /r /a /d y	设置xxx文件夹所有者	
+icacls xxx /grant Administrators:(F) /t /l /q	设置xxx文件夹权限
+
+已会：
+
